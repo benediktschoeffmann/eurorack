@@ -6,4 +6,4 @@
 8U = 361mm
 10U = 450mm
 
-
+Wood Screws are M6
